@@ -27,3 +27,4 @@
 2. Edit, add and commit files.
 3. Push your branch to the remote repository. (`$ git push -u origin <<YourFirstName>>`)
 4. Pull Request from your forked repository. [README](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
+5.
